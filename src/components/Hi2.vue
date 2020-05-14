@@ -1,8 +1,6 @@
 <template>
     <div class="hi">
-
-      <h1>{{message}}</h1>
-      <router-view></router-view>
+      <h1>{{msg2}}</h1>
     </div>
 </template>
 
@@ -11,7 +9,7 @@ export default {
   name: 'Hi',
   data () {
     return {
-      message: 'Hi, I am Vue!'
+      msg2: 'Hi, I am Hi2!'
     }
   }
 }
