@@ -1,6 +1,6 @@
 <template>
     <div class="hi">
-
+      <div>用户：{{$route.params.username}}</div>
       <h1>{{message}}</h1>
       <router-view></router-view>
     </div>

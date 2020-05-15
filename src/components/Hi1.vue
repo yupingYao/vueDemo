@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'Hi',
+  name: 'Hi1',
   data () {
     return {
       msg1: 'Hi, I am Hi1!'
