@@ -10,6 +10,7 @@
       <router-link to="/goParams/196/the News is wonderful, today.">Go Params</router-link>
       <router-link to="/home">Home</router-link>
       <router-link to="/404">测试404</router-link>
+      <router-link to="/count">Count</router-link>
     </p>
 
     <p>{{$route.name}}</p>
